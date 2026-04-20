@@ -5,6 +5,9 @@
   <Folder Name="/02/">
     <Project Path="TheGreathestNumber/TheGreathestNumber.csproj" />
   </Folder>
+  <Folder Name="/03/">
+    <Project Path="SortNumbers/SortNumbers.csproj" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" />
   </Folder>
