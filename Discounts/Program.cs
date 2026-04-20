@@ -10,7 +10,7 @@ do
 {
 	try
 	{
-		var desks = ConsoleExtension.GetInt("Desks number.......:");
+		var desks = ConsoleExtension.GetInt("Desks number.......: ");
 		var valueToPay = CalculateValue(desks);
 	}
 	catch (Exception ex)
