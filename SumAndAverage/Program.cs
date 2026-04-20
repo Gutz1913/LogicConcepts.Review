@@ -11,7 +11,7 @@ do
 	{
 		var n = ConsoleExtension.GetInt("How many numbers do you want?: ");
 		int sum = 0;
-		for (int i = 0; i <= n; i++)
+		for (int i = 1; i <= n; i++)
 		{
 			Console.Write($"{i}\t");
 			sum += i;
