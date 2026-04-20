@@ -12,6 +12,7 @@ do
 	{
 		var desks = ConsoleExtension.GetInt("Desks number.......: ");
 		var valueToPay = CalculateValue(desks);
+		Console.WriteLine($"El valor a pagar es.........: {valueToPay,20:C2} ");
 	}
 	catch (Exception ex)
 	{
