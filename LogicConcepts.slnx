@@ -3,7 +3,7 @@
     <Project Path="IsNumberOddOrNot/IsNumberOddOrNot.csproj" />
   </Folder>
   <Folder Name="/02/">
-    <Project Path="TheGreathestNumber/TheGreathestNumber.csproj" />
+    <Project Path="TheGreathestNumber/TheGreatertNumber.csproj" />
   </Folder>
   <Folder Name="/03/">
     <Project Path="SortNumbers/SortNumbers.csproj" />

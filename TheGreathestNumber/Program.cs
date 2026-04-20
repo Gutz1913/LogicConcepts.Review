@@ -3,7 +3,7 @@
 var answer = string.Empty;
 var options = new List<string> { "y", "n" };
 Console.WriteLine("::::::::::::::::::::::::::::::::::::::");
-Console.WriteLine("::::: EJERCICIO DEL NÚMERO MAYOR :::::");
+Console.WriteLine("::::::: GREATER NUMBER EXERCISE ::::::");
 Console.WriteLine("::::::::::::::::::::::::::::::::::::::");
 do
 {
@@ -15,15 +15,15 @@ do
 
 		if (number1 > number2 && number1 > number3)
 		{
-			Console.WriteLine($"The greathest number is: {number1}");
+			Console.WriteLine($"The greater number is: {number1}");
 		}
 		else if (number2 > number1 && number2 > number3)
 		{
-			Console.WriteLine($"The greathest number is: {number2}");
+			Console.WriteLine($"The greater number is: {number2}");
 		}
 		else if (number3 > number1 && number3 > number2)
 		{
-			Console.WriteLine($"The greathest number is: {number3}");
+			Console.WriteLine($"The greater number is: {number3}");
 		}
 		else 
 		{
@@ -41,6 +41,5 @@ do
 	{
 		answer = ConsoleExtension.GetValidOptions("¿Do you want to continue? ¿[Y]es, [N]o?: ", options);
 	} while (!options.Any(x => x.Equals(answer, StringComparison.CurrentCultureIgnoreCase)));
-}
-while (answer!.Equals("y", StringComparison.CurrentCultureIgnoreCase));
+} while (answer!.Equals("y", StringComparison.CurrentCultureIgnoreCase));
 Console.WriteLine(":::::: GAME OVER ::::::");
