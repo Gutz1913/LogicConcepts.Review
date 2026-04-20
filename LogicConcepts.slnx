@@ -29,6 +29,36 @@
   <Folder Name="/10/">
     <Project Path="SucesoStore/SucesoStore.csproj" Id="e7ff0157-8c25-495d-af5c-1e72b9b66633" />
   </Folder>
+  <Folder Name="/11/">
+    <Project Path="TransportationCompany/TransportationCompany.csproj" Id="c8abf739-df8e-4ad6-930f-65f9f2666d51" />
+  </Folder>
+  <Folder Name="/12/">
+    <Project Path="SumAndAverage/SumAndAverage.csproj" Id="d80de7b7-33fb-459a-88be-8b40dd2928b9" />
+  </Folder>
+  <Folder Name="/13/">
+    <Project Path="Factorial/Factorial.csproj" Id="c54c063c-677c-4f98-b657-fdc023c8d4b0" />
+  </Folder>
+  <Folder Name="/14/">
+    <Project Path="Taylor/Taylor.csproj" Id="e6c61990-1e6b-4887-8211-5e61b68f22a1" />
+  </Folder>
+  <Folder Name="/15/">
+    <Project Path="TaylorModified/TaylorModified.csproj" Id="fbfa5aaf-a085-4a6f-85c0-5f67f23ebb47" />
+  </Folder>
+  <Folder Name="/16/">
+    <Project Path="QuadraticEquations/QuadraticEquations.csproj" Id="7e318b8e-0260-4f60-b13e-aaaa335f2d3f" />
+  </Folder>
+  <Folder Name="/17/">
+    <Project Path="Fibonacci/Fibonacci.csproj" Id="ce05e7d7-2ff2-4076-ae3a-062df792b8c9" />
+  </Folder>
+  <Folder Name="/18/">
+    <Project Path="FibonacciModified/FibonacciModified.csproj" Id="6d102265-8c37-413d-8f84-02543f085358" />
+  </Folder>
+  <Folder Name="/19/">
+    <Project Path="IsPrime/IsPrime.csproj" Id="64b9b656-f0a1-4efc-a70a-e2bdbdbf719d" />
+  </Folder>
+  <Folder Name="/20/">
+    <Project Path="PrimeNumbers/PrimeNumbers.csproj" Id="5fb64c9d-37a1-4871-89e8-3cd3f405ec1c" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" />
   </Folder>
