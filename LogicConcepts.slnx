@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Folder Name="/Shared/">
+    <Project Path="Shared/Shared.csproj" />
+  </Folder>
+</Solution>
