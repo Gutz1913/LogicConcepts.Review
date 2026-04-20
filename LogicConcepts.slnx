@@ -17,6 +17,9 @@
   <Folder Name="/06/">
     <Project Path="SimplePayroll/SimplePayroll.csproj" Id="457f1870-9f9e-4666-bcaf-a6b7686aed43" />
   </Folder>
+  <Folder Name="/07/">
+    <Project Path="Discounts/Discounts.csproj" Id="bab67ec5-48af-469c-b637-4dd393b9818e" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" />
   </Folder>
