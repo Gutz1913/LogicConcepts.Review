@@ -3,7 +3,7 @@
 var answer = string.Empty;
 var options = new List<string> { "y", "n" };
 Console.WriteLine("::::::::::::::::::::::::::::::::::");
-Console.WriteLine("::::: PRIME NUMBERS EXERCISE :::::");
+Console.WriteLine("::::::: IS PRIME EXERCISE ::::::::");
 Console.WriteLine("::::::::::::::::::::::::::::::::::");
 do
 {
