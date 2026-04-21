@@ -2,9 +2,9 @@
 
 var answer = string.Empty;
 var options = new List<string> { "y", "n" };
-Console.WriteLine(":::::::::::::::::::::::::::::::::::::::::");
-Console.WriteLine(":::::: FIBONACCI MODIFIED EXERCISE ::::::");
-Console.WriteLine(":::::::::::::::::::::::::::::::::::::::::");
+Console.WriteLine(":::::::::::::::::::::::::::::::::::::::");
+Console.WriteLine("::::: FIBONACCI MODIFIED EXERCISE :::::");
+Console.WriteLine(":::::::::::::::::::::::::::::::::::::::");
 do
 {
 	try
